@@ -1,6 +1,8 @@
 ### 이재민의 github 입니다
-![ljm0850 GitHub stats](https://github-readme-stats.vercel.app/api?username=ljm0850&show_icons=true&theme=highcontrast)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlwoals0850)](https://solved.ac/dlwoals0850)
+![ljm0850 GitHub stats](https://github-readme-stats.vercel.app/api?username=ljm0850&show_icons=true&theme=highcontrast)
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlwoals0850)](https://solved.ac/dlwoals0850)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljm0850&layout=Demo&theme=highcontrast)
 
 <!--
