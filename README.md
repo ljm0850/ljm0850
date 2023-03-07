@@ -5,6 +5,44 @@
 
 ### 삼성 청년 SW 아카데미 7기
 - 22.01.05~ 22.12.30
+
+<details>
+<summary>코딩 집중과정(1학기)</summary>
+ - Computer Science
+    - 기초수식, 재귀, 동적프로그래밍
+    - Array, String, Stack, Queue, Linked List, Tree
+    - 탐욕알고리즘, 분할정복, 백트래킹, 그래프, 문자열탐색, 최적화
+- Language
+    - Python : 언어 기초, 데이터 구조, 함수, 모듈/예외처리, OOP
+- Web/Framework
+    - Web
+        - HTML
+        - CSS,Bootstrap
+    - JavaScript
+        - ES6 및 브라우저 조작
+        - Axios를 활용한 비동기 통신
+    - Django
+        - HTTP
+        - Server/Client 모델
+        - MVC 패턴
+        - Django 프레임워크
+    - Vue
+        - SPA
+        - Vue-CLI
+        - Vue-router
+        - Vuex
+- DataBase
+    - RDBMS/SQL, DB 모델링/ERD
+- 프로젝트 [AllReviewYou]
+</details>
+
+<details>
+<summary>심화 프로젝트(2학기)</summary>
+- 프로젝트 [GOOSE](https://github.com/ljm0850/Goose)
+- 프로젝트 [BEASTA ZOO](https://github.com/ljm0850/BEASTA-ZOO)
+- 프로젝트 [TheMe](https://github.com/ljm0850/TheMe)
+</details>
+
 #### 수상 내역
 - SW역량 테스트 등급 : 모의 Level A+ 취득
 - 1학기 성적우수상(광주1반 3등)
