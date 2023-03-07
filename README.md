@@ -8,12 +8,12 @@
 
 <details>
 <summary>코딩 집중과정(1학기)</summary>
- - Computer Science
+ ### Computer Science
     - 기초수식, 재귀, 동적프로그래밍
     - Array, String, Stack, Queue, Linked List, Tree
     - 탐욕알고리즘, 분할정복, 백트래킹, 그래프, 문자열탐색, 최적화
-- Language
-    - Python : 언어 기초, 데이터 구조, 함수, 모듈/예외처리, OOP
+### Language
+  - Python : 언어 기초, 데이터 구조, 함수, 모듈/예외처리, OOP
 - Web/Framework
     - Web
         - HTML
