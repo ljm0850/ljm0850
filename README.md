@@ -2,6 +2,7 @@
 - Blog : https://ljm0850.tistory.com/
 - E-mail : dlwoals0850@gmail.com
 - baekjoon : https://www.acmicpc.net/user/dlwoals0850
+- Portfolio : https://bright-skunk-35c.notion.site/Portfolio-827dc99c77384eea8992047543e90531
 
 ### 삼성 청년 SW 아카데미 7기
 - 22.01.05~ 22.12.30
