@@ -13,8 +13,8 @@
 - Certificate 등급 : 우수 (상위 30%內) 
 
 ### 목표
-- 아이디어를 구현할 실력을 꾸준히 키우는 것
 - 다양한 경험을 통해 상황에 맞는 새로운 아이디어를 생각하는 것
+- 아이디어를 구현할 실력을 꾸준히 키우는 것
 - 떠오른 아이디어를 구현하여 문제 해결 및 새롭고 즐거운 경험을 선사하는 것
 
 <!-- ![ljm0850 GitHub stats](https://github-readme-stats.vercel.app/api?username=ljm0850&show_icons=true&theme=highcontrast) -->
