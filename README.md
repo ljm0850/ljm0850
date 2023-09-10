@@ -58,20 +58,20 @@
 
 
 
-### 그외
+### 알고리즘
 
 <!-- ![ljm0850 GitHub stats](https://github-readme-stats.vercel.app/api?username=ljm0850&show_icons=true&theme=highcontrast) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlwoals0850)](https://solved.ac/dlwoals0850)
 
-- HSAT Level 3
-- PCCP lv 3
+- HSAT 정기 코딩 인증평가 Level 3
+- PCCP lv 4 (Python)
 
 
 
 ### 언어 및 프레임워크
 
-- Python : 알고리즘 문제 풀이에 주로 사용, 제일 익숙한 언어
-- Javascript(Typescript) : 여러 프로젝트에서 Frontend를 맡으면서 자주 사용
+- Python : Django를 이용하여 Backend를 구현한 프로젝트 경험, 알고리즘 문제 풀이에 주로 사용하여 제일 익숙한 언어
+- Javascript(Typescript) : 4개 프로젝트에서 Vue, React 프레임 워크를 이용하여 Frontend를 맡아 사용
 - Solidity : BEASTA ZOO 프로젝트에서 Smart Contract작성에 사용
 - Vue : All review you, GOOSE, TheMe 프로젝트에서 프론트엔드를 담당하여 사용
 - React : BEASTA ZOO 프로젝트에서 프론트엔드를 보조하며 사용
