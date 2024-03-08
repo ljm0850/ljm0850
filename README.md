@@ -41,7 +41,6 @@
 
 #### 수상 내역
 
-- SW역량 테스트 등급 : 모의 Level A+ 취득
 - 1학기 성적우수상(반 3등)
 - 프로젝트 우수상[BEASTA ZOO](https://github.com/ljm0850/BEASTA-ZOO)(반 1등)
 - Certificate 등급 : 우수 (상위 30%內) 
