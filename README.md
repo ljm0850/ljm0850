@@ -6,6 +6,9 @@
 - E-mail : dlwoals0850@gmail.com
 - baekjoon : https://www.acmicpc.net/user/dlwoals0850
 
+### 자격
+- SQLD
+
 ### 삼성 청년 SW 아카데미 7기 (22.01.05 ~ 22.12.30)
 
 #### 코딩 집중과정(1학기)
