@@ -1,80 +1,66 @@
-# 탄탄한 시스템 흐름을 위해 본질적인 'Why'를 끊임없이 탐구하는 개발자 이재민
+# 👋 Hello, I'm Jaemin Lee
 
-- [포트폴리오 바로가기](https://ljmproject.store/)
-- [블로그 바로가기](https://ljm0850.tistory.com/)
-- E-mail : dlwoals0850@gmail.com
+### "탄탄한 시스템 흐름을 위해 본질적인 'Why'를 끊임없이 탐구합니다."
+기술의 구현을 넘어, 시스템 전반의 유기적인 연결과 논리적 타당성을 고민하는 개발자 이재민입니다.
 
-- [백준 계정 바로가기](https://www.acmicpc.net/user/dlwoals0850)
+<p align="left">
+  <a href="https://ljmproject.store/"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=flat-square&logo=Microsoft-SharePoint&logoColor=white"/></a>
+  <a href="https://ljm0850.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="mailto:dlwoals0850@gmail.com"><img src="https://img.shields.io/badge/Email-dlwoals0850@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
-## 자격
-- SQLD
+---
 
-## 기술
-### 언어
-- Python
-- Javascript(Typescript)
-- Solidity
+## 🚀 Skills & Tools
 
-### 프레임워크
-- Next.js
-- Nest.js
-- React
-- Vue
-- Django
+### 💻 Languages & Frameworks
+- **Backend:** Python, Django, Nest.js, Solidity
+- **Frontend:** Javascript, Typescript, Next.js, React, Vue
+- **Database:** RDBMS / SQL (SQLD 자격 보유)
 
-### CI/CD
-- Docker
-- AWS
-- Nginx
-- github Action
+### ⚙️ DevOps & Infra
+- **Deployment:** Docker, AWS, Nginx
+- **CI/CD:** GitHub Actions
 
-<br />
+---
 
-# 알고리즘
+## 🏆 Achievements & Algorithms
+- **PCCP:** Level 4 (Python)
+- **Solved.ac:** [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlwoals0850)](https://solved.ac/dlwoals0850)
+- **Awards:** 
+  - SSAFY 1학기 성적우수상 (반 3등)
+  - SSAFY 프로젝트 우수상 [BEASTA ZOO](https://github.com/ljm0850/BEASTA-ZOO) (반 1등)
+  - SSAFY 코딩 역량 Certificate: **우수** (상위 30% 이내)
 
-<!-- ![ljm0850 GitHub stats](https://github-readme-stats.vercel.app/api?username=ljm0850&show_icons=true&theme=highcontrast) -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlwoals0850)](https://solved.ac/dlwoals0850)
+---
 
-- PCCP lv 4 (Python)
-- ~~HSAT 정기 코딩 인증평가 Level 3~~
+## 🎓 Experience: SSAFY 7th
+**삼성 청년 SW 아카데미 (코딩 집중 및 심화 과정)**
 
-<br />
-
-
-# 삼성 청년 SW 아카데미 7기
-
-## 코딩 집중과정(1학기)
-
+### 💡 Core Competencies
 <details>
-    <summary>Computer Science</summary> 
-    <li>기초수식, 재귀, 동적프로그래밍</li>
-    <li>Array, String, Stack, Queue, Linked List, Tree</li>
-    <li>탐욕 알고리즘, 분할정복, 백트래킹, 그래프, 문자열 탐색, 최적화</li>
-</details>
-
-<details> 
-    <summary>Language</summary>  
-	<li>Python : 언어 기초, 데이터 구조, 함수, 모듈/예외처리, OOP</li>
+  <summary><b>Computer Science & Algorithm</b></summary>
+  <ul>
+    <li>기초수식, 재귀, DP, 분할정복, 백트래킹</li>
+    <li>자료구조 (Stack, Queue, Tree, Linked List) 및 그래프 최적화</li>
+  </ul>
 </details>
 
 <details>
-    <summary>Web/Framework</summary>
-    <li>	Web : HTML, CSS, Bootstrap</li>
-    <li>	Javascript : ES6 및 브라우저 조작, Axios를 활용한 비동기 통신</li>
-    <li>	Django : HTTP, Server/Client 모델, MVC 패턴, Django 프레임워크</li>
-	<li>	Vue : SPA, Vue-CLI, Vue-router, Vuex</li>
-    <li>	DataBase : RDBMS/SQL, DB 모델링/ERD</li>
-    <li>프로젝트 <a href="https://github.com/ljm0850/All-Review-you">All Review You<a/></li>
+  <summary><b>Web & Engineering</b></summary>
+  <ul>
+    <li><b>Frontend:</b> ES6+, Axios 비동기 통신, SPA 구조 이해</li>
+    <li><b>Backend:</b> MVC 패턴 기반 Django 프레임워크 설계</li>
+    <li><b>DB:</b> 논리적 DB 모델링 및 ERD 설계</li>
+  </ul>
 </details>
 
-## 심화 프로젝트(2학기)
+### 📁 Main Projects
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **BEASTA ZOO** | SSAFY 프로젝트 우수상 (1등) | [View Repo](https://github.com/ljm0850/BEASTA-ZOO) |
+| **GOOSE** | 심화 프로젝트 | [View Repo](https://github.com/ljm0850/Goose) |
+| **TheMe** | 심화 프로젝트 | [View Repo](https://github.com/ljm0850/TheMe) |
+| **All Review You** | 웹 관통 프로젝트 | [View Repo](https://github.com/ljm0850/All-Review-you) |
 
-- 프로젝트 [GOOSE](https://github.com/ljm0850/Goose)
-- 프로젝트 [BEASTAZOO](https://github.com/ljm0850/BEASTA-ZOO)
-- 프로젝트 [TheMe](https://github.com/ljm0850/TheMe)
-
-## 수상 내역
-
-- 1학기 성적우수상(반 3등)
-- 프로젝트 우수상[BEASTA ZOO](https://github.com/ljm0850/BEASTA-ZOO)(반 1등)
-- Certificate 등급 : 우수 (상위 30%內) 
+---
