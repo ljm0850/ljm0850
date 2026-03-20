@@ -26,7 +26,8 @@
 
 ## 🏆 Achievements & Algorithms
 - **PCCP:** Level 4 (Python)
-- **Solved.ac:** [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlwoals0850)](https://solved.ac/dlwoals0850)
+- **Solved.ac** 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlwoals0850)](https://solved.ac/dlwoals0850)
 - **Awards:** 
   - SSAFY 1학기 성적우수상 (반 3등)
   - SSAFY 프로젝트 우수상 [BEASTA ZOO](https://github.com/ljm0850/BEASTA-ZOO) (반 1등)
