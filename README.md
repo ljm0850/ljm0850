@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Jaemin Lee
 
-### "탄탄한 시스템 흐름을 위해 본질적인 'Why'를 끊임없이 탐구합니다."
-기술의 구현을 넘어, 시스템 전반의 유기적인 연결과 논리적 타당성을 고민하는 개발자 이재민입니다.
+### "성장을 뒷받침하는 탄탄한 설계와 근거 있는 기술을 지향합니다"
+복잡한 요구사항을 유연한 시스템 흐름으로 풀어내며, 
+기술적 타당성을 바탕으로 팀과 서비스의 지속 가능한 미래를 만듭니다.
 
 <p align="left">
   <a href="https://ljmproject.store/"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=flat-square&logo=Microsoft-SharePoint&logoColor=white"/></a>
