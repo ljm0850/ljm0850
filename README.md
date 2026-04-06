@@ -35,7 +35,13 @@
   - SSAFY 코딩 역량 Certificate: **우수** (상위 30% 이내)
 
 ---
+## 토이 프로젝트
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **IP-project** | 웹 문서 기반 포트폴리오 | [View Repo](https://github.com/ljm0850/interactive-portfolio) |
+| **maum-agit** | 마음을 정리하는 공간(개발중단) | [View Repo](https://github.com/ljm0850/maum-agit) |
 
+---
 ## 🎓 Experience: SSAFY 7th
 **삼성 청년 SW 아카데미 (코딩 집중 및 심화 과정)**
 
