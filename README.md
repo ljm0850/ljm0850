@@ -38,7 +38,7 @@
 ## 토이 프로젝트
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **IP-project** | 웹 문서 기반 포트폴리오 | [View Repo](https://github.com/ljm0850/interactive-portfolio) |
+| [**IP-project**](https://ljmproject.store/) | 웹 문서 기반 포트폴리오 | [View Repo](https://github.com/ljm0850/interactive-portfolio) |
 | **maum-agit** | 마음을 정리하는 공간(개발중단) | [View Repo](https://github.com/ljm0850/maum-agit) |
 
 ---
